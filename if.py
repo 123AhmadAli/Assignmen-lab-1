@@ -1,7 +1,7 @@
 # question no 01
 
 
-number=-5
+number=int(input("numbe:"))
 if number>=0:
     print("the number is positive")
 elif number<=0:
